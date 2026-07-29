@@ -1,0 +1,9 @@
+Package: r440_incompatible_r46
+Type: Package
+Title: R440 Incompatible R46
+Version: 1.0.0
+Authors@R: person("Test", "Package", email="test@example.com", role=c("aut","cre"))
+Description: Test package intentionally incompatible with R 4.4.0.
+License: MIT
+Encoding: UTF-8
+Depends: R (>= 4.6.0)
