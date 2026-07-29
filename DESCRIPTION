@@ -1,4 +1,4 @@
-Package: r440_incompatible_r46
+Package: r440incompatible.r46
 Type: Package
 Title: R440 Incompatible R46
 Version: 1.0.0
